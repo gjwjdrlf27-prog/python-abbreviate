@@ -1,1 +1,4 @@
-# python-abbreviate
+---Download---
+
+Linux:
+cd ~
